@@ -1,0 +1,5 @@
+git init --> initialize the new git repository
+git clone <<repository_url>> --> create the local copy of remote repository
+git pull --> it fetches latest changes from remote repository to local repository
+git commit -m "Commit Message" --> committing the changes
+git push --> uploading the changes to remote repository
